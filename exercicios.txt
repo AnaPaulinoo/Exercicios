@@ -1,0 +1,72 @@
+Exercício sobre estrutura condicional, dando ênfase nas variáveis 
+1)
+Ler valor : X
+Ler valor: Y
+Ler valor: Z  
+
+ se X+Y < Z 
+          a soma é menor que Z
+            senão 
+                     a soma é maior que Z
+2)
+Ler nome:
+Ler sexo: 
+Ler estado civil: 
+
+se( estado civil==Casado && sexo ==M) 
+    escreva o tempo de casado 
+senão 
+     siga para os próximos passos 
+3)
+Exibir na tela números de 1 a 10 
+
+    se os números forem 2,4,6,8,10 são par
+senão 
+    os números serão ímpar 
+4)
+Ler valor inteiro: X
+Ler valor inteiro: Z
+
+atribuir valor inteiro a X && Y
+   se (X==Y) somar (X+Y) 
+ X+Y==Z
+   senão multiplicar (X . Y) 
+X . Y==Z  
+5)
+Escreva um número: 
+
+se o número for positivo 
+   resultado : será (X. ²) dobro 
+senão 
+  resultado: será (X.³) triplo 
+
+6)
+João é uma criança 
+João gosta de pão 
+
+     João é uma criança && João  gosta de pão == VERDADEIRO 
+senão se
+    João é uma criança && João gosta de pão == FALSO 
+           senão  
+               ambos são distintos  
+7)
+Atribua números inteiros para A
+   se (A== números com final 0,2,4,6,8) 
+criar operação (A + 5) 
+   resultado da operação A+5 == B
+  senão
+criar operação (A+8) 
+  resultado da operação A+8 ==B 
+8)
+!(A==B) 
+!(A==C)
+!(B==C)
+ atribua números inteiros para A,B e C 
+    se (A>B)&&(A>C) 
+ A será 1°
+    senão se (B>C) 
+ B será 2° 
+    senão 
+ C será 3°
+
+
